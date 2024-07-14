@@ -15,7 +15,7 @@
 
 <img width="686" alt="截屏2024-07-15 01 31 36" src="https://github.com/user-attachments/assets/a47fce90-c207-4cb9-9607-ce684f3c4c3b">
 
-/* 输入 ([http://127.0.0.1:11434/](http://127.0.0.1:11434/) 也可以查看Ollama是否在运行
+/* 输入 [http://127.0.0.1:11434/](http://127.0.0.1:11434/) 也可以查看Ollama是否在运行
 
 <img width="655" alt="截屏2024-07-15 01 33 07" src="https://github.com/user-attachments/assets/acba7887-23a2-48ca-a025-0ebf7fe0e134">
 
